@@ -1,2 +1,2 @@
 # 7scry-legal
-7scry legal pages (terms/privacy)
+BlockStrike のプライバシーポリシーだけを置く (App Store に載せている URL)。
